@@ -22,10 +22,7 @@
         <nav class="navbar navbar-light">
             <ul class="nav nav-pills">
                 <li class="nav-item"><a href="/">Startseite</a></li>
-                <li class="nav-item"><a href="?location=pinnwand">Pinnwand</a></li>
                 <li class="nav-item"><a href="?location=kurse">Kurse</a></li>
-                <li class="nav-item"><a href="?location=galerie">Galerie</a></li>
-                <li class="nav-item"><a href="?location=kontakt">Kontakt</a></li>
             </ul>
         </nav>
     </div>
